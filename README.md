@@ -24,7 +24,7 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 ## Key Features
 
 -  **Responsive Design** – Optimized for mobile, tablet, and desktop
--  **Project Portfolio ** – Case studies with visuals and live demos
+-  **Project Portfolio** – Case studies with visuals and live demos
 - **About Section** – Personal mission and developer profile
 - **Social Links** – Social media integration for inbound queries
 
