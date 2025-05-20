@@ -37,13 +37,12 @@ portfolio1/
 - ├── index.html # Homepage
 - ├── README.md # Documentation
 
---
+---
 ## Installation Guide
 
 To deploy locally:
 - open index.html directly in your browser
 
---
+---
 ## Live Demo
 Visit Live Site : 
-- 
