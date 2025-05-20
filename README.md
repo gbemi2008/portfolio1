@@ -31,11 +31,11 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 ---
 ## Folder Structure
 
-- portfolio1/
-- ├── assets/ # Images
-- ├── style.css # Stylesheets
-- ├── index.html # Homepage
-- ├── README.md # Documentation
+portfolio1/
+-   |── assets/ # Images
+-   ├── style.css # Stylesheets
+-   ├── index.html # Homepage
+-   ├── README.md # Documentation
 
 ---
 ## Installation Guide
