@@ -1,6 +1,6 @@
 # Gbadebo Gbemisola | Web Developer Portfolio
 
-A professionally crafted and responsive portfolio website for **Gbemisola Blessing Ayeni**—a forward-thinking web developer with a focus on user-centric design, clean code, and dynamic web solutions.
+A professionally crafted and responsive portfolio website for **Gbadebo Gbemisola**—a forward-thinking web developer with a focus on user-centric design, clean code, and dynamic web solutions.
 
 ---
 
@@ -16,7 +16,7 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 |----------------|------------------------------------|
 | Markup         | HTML5                              |
 | Styling        | CSS3                               |
-| Version Control| Git, GitHub                        |
+| Version Control|  GitHub                            |
 | Hosting        | Vercel                             |
 
 ---
@@ -33,7 +33,7 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 
 - portfolio1/
 - ├── assets/ # Images
-- ├── css/ # Stylesheets
+- ├── style.css # Stylesheets
 - ├── index.html # Homepage
 - ├── README.md # Documentation
 
@@ -45,4 +45,4 @@ To deploy locally:
 
 ---
 ## Live Demo
-Visit Live Site : 
+[Visit Live Site](https://www.google.com/)
