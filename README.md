@@ -45,4 +45,4 @@ To deploy locally:
 
 ---
 ## Live Demo
-[Visit Live Site](https://www.google.com/)
+[Visit Live Site](https://gbemi-portfolio.vercel.app/)
