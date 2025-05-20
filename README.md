@@ -32,17 +32,18 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 ## Folder Structure
 
 portfolio1/
-├── assets/ # Images
-├── css/ # Stylesheets
-├── index.html # Homepage
-├── README.md # Documentation
+- ├── assets/ # Images
+- ├── css/ # Stylesheets
+- ├── index.html # Homepage
+- ├── README.md # Documentation
 
 --
 ## Installation Guide
 
 To deploy locally:
-open index.html directly in your browser
+- open index.html directly in your browser
 
 --
 ## Live Demo
 Visit Live Site : 
+- 
