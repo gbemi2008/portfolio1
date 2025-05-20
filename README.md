@@ -15,7 +15,7 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 | Category        | Technologies Used                 |
 |----------------|------------------------------------|
 | Markup         | HTML5                              |
-| Styling        | CSS3, Tailwind CSS or Bootstrap    |
+| Styling        | CSS3                               |
 | Version Control| Git, GitHub                        |
 | Hosting        | Vercel                             |
 
@@ -31,7 +31,7 @@ This digital portfolio showcases Gbemisola’s web development skills, selected 
 ---
 ## Folder Structure
 
-portfolio1/
+- portfolio1/
 - ├── assets/ # Images
 - ├── css/ # Stylesheets
 - ├── index.html # Homepage
